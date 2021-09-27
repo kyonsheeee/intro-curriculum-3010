@@ -1,0 +1,8 @@
+{
+  "name": "intro-curriculum-3004",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kyonsheeee/intro-curriculum-3010.git",
+  "license": "MIT",
+  "dependencies": {}
+}
